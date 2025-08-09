@@ -19,6 +19,7 @@ Periode: 1 Maret 2023 – 29 Februari 2024 (1 tahun).
 Frekuensi: Harian.
 Catatan: Dataset mentah dapat ditemukan di folder /data/raw.
 ## 🔬 Ringkasam Hasil Penelitian
+
 Performa Pelatihan: Optimizer Adam dengan learning rate rendah (0.001) menunjukkan kemampuan belajar paling superior pada data latih, mampu menurunkan loss secara signifikan.
 Evaluasi Akhir: Terdapat perbedaan signifikan antara evaluasi kuantitatif dan kualitatif.
 Kuantitatif: Model dengan optimizer SGD secara tak terduga menghasilkan nilai MAE dan RMSE terendah pada data uji.
